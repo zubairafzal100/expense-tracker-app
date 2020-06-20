@@ -24,7 +24,7 @@ body {
 }
 
 .main-container {
-  background-image: url('./components/images/bg-image2.jpg');
+  background-image:  url('./components/images/bg-image.jpg');
   border-radius: 50px;
   padding: 20px 20px 0px 20px;
 }
